@@ -1,3 +1,3 @@
 go 1.12.1
 
-module github.com/matoous/go-nanoid
+module github.com/blinkloader/go-nanoid
